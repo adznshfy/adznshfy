@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adznshfy
+- 👋 Hi, I’m Jihaan
 - 👀 I’m interested in UI/UX and Front-End Web Development
 - 🌱 I’m currently learning Python
 - 📫 Reach me on IG @jihaandzni
